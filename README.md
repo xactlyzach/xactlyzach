@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xactlyzach
-- 👀 I’m interested in expanding my knowledge in Frontend Development
-- 🌱 I’m currently learning how to use React
+- 👀 I’m interested in expanding my knowledge in iOS Development
+- 🌱 I’m currently learning how to become an iOS Developer, utilizing Xcode, Swift, and SwiftUI
 - 💞️ I’m looking to collaborate on anything that can help me build my knowledge
 
 <!---
